@@ -15,7 +15,7 @@ This project demonstrates skills in **C# programming**, **database integration**
 
 ## 🎮 Gameplay Screenshots
 
-![Take That Risk Gameplay](Main-Menu-Screenshot.jpg)
+![Take That Risk Gameplay](Main Menu Screenshot.jpg)
 
 ---
 
